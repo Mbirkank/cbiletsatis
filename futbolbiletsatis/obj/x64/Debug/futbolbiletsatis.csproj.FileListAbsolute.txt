@@ -1,0 +1,16 @@
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\bin\x64\Debug\futbolbiletsatis.exe.config
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\bin\x64\Debug\futbolbiletsatis.exe
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\bin\x64\Debug\futbolbiletsatis.pdb
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.csproj.AssemblyReference.cache
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.csproj.SuggestedBindingRedirects.cache
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.Form1.resources
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.Form2.resources
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.Form3.resources
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.Form4.resources
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.Properties.Resources.resources
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.csproj.GenerateResource.cache
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.csproj.CoreCompileInputs.cache
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.exe
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.pdb
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.Form5.resources
+C:\Users\karae\source\repos\futbolbiletsatis\futbolbiletsatis\obj\x64\Debug\futbolbiletsatis.Form6.resources
